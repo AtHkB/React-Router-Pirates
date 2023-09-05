@@ -1,0 +1,49 @@
+{
+  "pirates": [
+    {
+      "id": 1,
+      "name": "Monkey D. Luffy",
+      "image": "Luffy.webp"
+    },
+    {
+      "id": 2,
+      "name": "Roronoa Zoro",
+      "image": "RoronoaZoro.webp"
+    },
+    {
+      "id": 3,
+      "name": "Nami",
+      "image": "Nami.webp"
+    },
+    {
+      "id": 4,
+      "name": "Usopp",
+      "image": "Usopp.webp"
+    },
+    {
+      "id": 5,
+      "name": "Sanji",
+      "image": "Sanji.webp"
+    },
+    {
+      "id": 6,
+      "name": "Chopper",
+      "image": "Chopper.webp"
+    },
+    {
+      "id": 7,
+      "name": "Nico Robin",
+      "image": "NicoRobin.webp"
+    },
+    {
+      "id": 8,
+      "name": "Franky",
+      "image": "Franky.webp"
+    },
+    {
+      "id": 9,
+      "name": "Brook",
+      "image": "Brook.webp"
+    }
+  ]
+}
